@@ -7,6 +7,7 @@ I'm a cloud computing student with hands-on experience using Microsoft Azure.
 - Azure storage, governance, and access control
 - Monitoring, alerts, and identity management
 - End-to-end Azure administration case studies
+- Microsoft 365 automation using Power Automate and SharePoint
 
 ### 🔹 Projects
 Please see my pinned repositories below for detailed Azure projects and documentation.
